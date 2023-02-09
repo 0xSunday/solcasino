@@ -25,7 +25,7 @@ function PostItem(props) {
       >
         <div className={`flex justify-center  items-center  `}>
           <Image
-            className="   sm:w-[30rem] object-cover sm:h-[15rem]  w-[100%] h-[100%]  "
+            className="   sm:w-[25rem] object-cover sm:h-[20rem]  w-[100%] h-[100%]  "
             src={imagePath}
             alt={title}
             width={300}

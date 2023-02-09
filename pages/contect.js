@@ -1,4 +1,3 @@
-
 import Footer from "@/components/Footer";
 import NavBar from "@/components/NavBar";
 
@@ -22,7 +21,6 @@ const contect = () => {
           Contact Sol Casino
         </h1>
         <Footer
-        
           twitter="https://twitter.com/Solcasinoio"
           mail="support@solcasino.io"
         />

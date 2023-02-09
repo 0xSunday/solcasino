@@ -1,5 +1,5 @@
 ---
-title:About SolCasino
+title: About SolCasino
 date: "02-09-2023"
 image: about-solcasino.png
 excerpt: about sol casino

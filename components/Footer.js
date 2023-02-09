@@ -10,7 +10,7 @@ const Footer = ({ insta, twitter, mail }) => {
         {insta && (
           <Link
             href={insta}
-            className="text-3xl text-yellow-300 hover:text-yellow-700"
+            className="text-3xl sm:text-5xl text-yellow-300 hover:text-yellow-700"
           >
             <BsInstagram />
           </Link>
@@ -18,7 +18,7 @@ const Footer = ({ insta, twitter, mail }) => {
         {twitter && (
           <Link
             href={twitter}
-            className="text-3xl  text-yellow-300 hover:text-yellow-700"
+            className="text-3xl sm:text-5xl  text-yellow-300 hover:text-yellow-700"
           >
             <BsTwitter />
           </Link>
@@ -27,15 +27,7 @@ const Footer = ({ insta, twitter, mail }) => {
         {mail && (
           <Link
             href={`mailto:${mail}`}
-            className="text-3xl   text-yellow-300 hover:text-yellow-700"
-          >
-            <AiTwotoneMail />
-          </Link>
-        )}
-        {mail && (
-          <Link
-            href={`mailto:${mail}`}
-            className="text-3xl   text-yellow-300 hover:text-yellow-700"
+            className="text-3xl sm:text-5xl  text-yellow-300 hover:text-yellow-700"
           >
             <AiTwotoneMail />
           </Link>

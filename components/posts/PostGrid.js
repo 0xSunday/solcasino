@@ -4,7 +4,6 @@ import { motion, Variants } from "framer-motion";
 
 function PostsGrid(props) {
   const { posts } = props;
-
   return (
     <motion.ul className={` ${classes.grid}`}>
       {posts.map((post) => (
