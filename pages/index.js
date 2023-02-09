@@ -7,10 +7,10 @@ import { getFeaturedPosts } from "../lib/post-util";
 
 export default function Home(props) {
   return (
-    <div className="h-[100vh] sm:bg-gradient-to-tr bg-gradient-to-br from-primary via-[#0A2647] to-primary  sm:px-16 pb-10 px-6 ">
-      <NavBar con={false} cont={true} />
+    <div className=" sm:bg-gradient-to-tr bg-gradient-to-br from-primary via-[#0A2647] to-primary  sm:px-16 pb-10 px-6 ">
+      <NavBar con={true} cont={false} />
       <Hero />
-      {/* <FeaturedPost posts={props.posts} /> */}
+      <FeaturedPost posts={props.posts} />
     </div>
   );
 }
