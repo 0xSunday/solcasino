@@ -1,0 +1,66 @@
+.reactMarkDown ul {
+  margin-top: 0em;
+  margin-bottom: 1em;
+  list-style: disc outside none;
+  font-size: 1.5rem;
+}
+
+.reactMarkDown ul li {
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+  margin-left: 2em;
+  display: list-item;
+  text-align: -webkit-match-parent;
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.7);
+}
+.reactMarkDown h1 {
+  font-size: 2.5rem;
+  margin-top: 1.5em;
+  margin-bottom: 0em;
+  font-weight: bold;
+  color: rgb(253 224 71 / var(--tw-text-opacity));
+}
+.reactMarkDown h2 {
+  font-size: 2.2rem;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  font-weight: bold;
+  color: rgb(253 224 71 / var(--tw-text-opacity));
+}
+
+.reactMarkDown p {
+  font-size: 1.5rem;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+.reactMarkDown img {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding: 30px;
+}
+
+@media only screen and (max-width: 600px) {
+  .reactMarkDown p {
+    font-size: 1.2rem;
+  }
+  .reactMarkDown h1 {
+    font-size: 1.6rem;
+    font-weight: bold;
+  }
+  .reactMarkDown h2 {
+    font-size: 1.4rem;
+  }
+  .reactMarkDown ul li {
+    font-size: 1.2rem;
+    margin-left: 1em;
+  }
+  .reactMarkDown img {
+    padding: 0;
+  }
+
+  .reactMarkDown code {
+    padding: 30px 20px;
+    font-size: 1rem;
+  }
+}
