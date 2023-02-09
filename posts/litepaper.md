@@ -1,6 +1,6 @@
 ---
 title: Lite Paper
-date: "02-09-2023"
+date: "02-08-2023"
 image: litepaper.png
 excerpt: lite paper of sol casino
 isFeatured: true
