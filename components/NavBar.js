@@ -21,7 +21,7 @@ const NavBar = (props) => {
           <img
             src="https://solcasino.io/e39a525d1e61bbbe99bc22ad79468207.png"
             alt="sol casino"
-            className="  w-64"
+            className="w-40 sm:w-64"
             // className="rounded-full h-52 w-52 sm:h-72 sm:w-72"
           />
         </Link>
