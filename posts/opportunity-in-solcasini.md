@@ -1,11 +1,12 @@
 ---
-title: Opportunity in Solcasino.io
-date: "02-09-2023"
+title: Opportunity
+date: "02-10-2023"
 image: opportunity-in-solcasini.png
 excerpt: about sol casino and future of SolCasino
 isFeatured: true
 ---
-# Opportunity 
+# Opportunity in Solcasino.io
+
 Solcasino.io will open a new opportunity to earn a share of profits while joining the world of casino through NFTs.
 The main benefit of holders is to earn a share of the profits from the platform, these are after all the expense and cost such as paying operators, providers and maintenances. This provides holders with a steady stream of income and adds to the potential return on investment.
 There are also other benefits and utility for holders such as NFTs staking, Rakeback bonuses, VIP system and NFT Lotto. This will be discussed more on Roadmaps.
